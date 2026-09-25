@@ -11,11 +11,11 @@ blur            = true # Request compositor to blur content behind transparent w
 title           = "Alacritty Terminal" # Window title.
 
 [font]
-normal      = { family = "MesloLGSDZ Nerd Font Mono", style = "Regular" }
-bold        = { family = "MesloLGSDZ Nerd Font Mono", style = "Bold" }
-italic      = { family = "MesloLGSDZ Nerd Font Mono", style = "Italic" }
-bold_italic = { family = "MesloLGSDZ Nerd Font Mono", style = "Bold_Italic" }
-size = 13.5
+normal      = { family = "JetBrains Mono Nerd Font", style = "Regular" }
+bold        = { family = "JetBrains Mono Nerd Font", style = "Bold" }
+italic      = { family = "JetBrains Mono Nerd Font", style = "Italic" }
+bold_italic = { family = "JetBrains Mono Nerd Font", style = "Bold_Italic" }
+size = 10
 
 [selection]
 save_to_clipboard = true
